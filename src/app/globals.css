@@ -29,7 +29,7 @@ body {
 .item{
   min-height:40rem;
   min-width:25rem;
-  padding:40px;
+  padding:10px;
 }
 
 .item img{
