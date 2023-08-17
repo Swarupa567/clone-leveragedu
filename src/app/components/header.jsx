@@ -5,6 +5,7 @@ export default function header() {
   return (
     <div className='flex justify-around mt-2'>
     <Image src={logo} alt='logo' height='80' width='80' className='bg-black'/>
+
     <div className='flex justify-around gap-x-5 -mr-24 '>
       <p className='transition duration-400 ease-in-out hover:scale-110'>Study Abroad</p>
       <p className='transition duration-400 ease-in-out hover:scale-110'>Accomodation</p>
@@ -14,6 +15,7 @@ export default function header() {
       <p className='transition duration-400 ease-in-out hover:scale-110'>Products</p>
       <p className='transition duration-400 ease-in-out hover:scale-110'>More</p>
       <span className='border-white border-2 rounded-lg p-1.5'>
+      
       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 28 28" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
         <path strokeLinecap="round" strokeLinejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
       </svg>
