@@ -1,6 +1,6 @@
 #LEVERAGEDU <br />
 
-<a href='https://clone-leveragedu.vercel.app/'>Live Website</a>
+<a href='https://clone-leveragedu-o79hit40t-swarupa567.vercel.app/'>Live Website</a>
 
   <img src="https://ik.imagekit.io/hf8ptqbr91t/live3_hwcuYqKTc.jpg?updatedAt=1692284910746" alt="Hero Component"/>
   <img src='https://ik.imagekit.io/hf8ptqbr91t/live4_o8FKUty0z.jpg?updatedAt=1692284910637' alt='Hero Component' />
